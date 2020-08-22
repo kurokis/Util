@@ -1,0 +1,4 @@
+lib/__pycache__
+input_data/**
+!input_data/**.gitkeep
+output_data
