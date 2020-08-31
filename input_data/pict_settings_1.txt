@@ -1,0 +1,3 @@
+シフトポジション: P,N,D,R,B,init
+トランスミッション: AT,MT,CVT
+エンジン: init,ENG,HV

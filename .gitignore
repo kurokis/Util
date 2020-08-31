@@ -1,4 +1,6 @@
 lib/__pycache__
 input_data/**
+!input_data/pict_settings_1.txt
+!input_data/pict_settings_2.txt
 !input_data/**.gitkeep
 output_data
